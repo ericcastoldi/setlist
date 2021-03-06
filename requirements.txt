@@ -1,2 +1,4 @@
 requests
 spotipy
+gspread 
+oauth2client
